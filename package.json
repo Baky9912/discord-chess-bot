@@ -1,0 +1,19 @@
+{
+    "name": "chesspuzzlebotdiscord",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "stop": "pkill --signal SIGINT chesspuzzlebot"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.2.0",
+        "mysql": "^2.18.1",
+        "xmlhttprequest": "^1.8.0"
+    }
+}

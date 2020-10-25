@@ -1,0 +1,14 @@
+{
+    "prefix": ".",
+    "token": "<deleted for safety>",
+    "punishment_time": 10,
+    "time_per_move": 60,
+    "max_time_per_puzzle": 7,
+    "server": "<deleted>",
+    "command": "puzzler",
+    "channel": "puzzles",
+    "db_host": "",
+    "db_user": "",
+    "db_password": "",
+    "db_database": ""
+}
